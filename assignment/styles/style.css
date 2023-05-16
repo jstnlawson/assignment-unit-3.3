@@ -1,1 +1,8 @@
 /* give your assignment a fun background color */
+body {
+    color: #fef5ea;
+    background-color: rgb(217, 132, 132);
+    font-family: sans-serif;
+    font-variant: petite-caps;
+    font-size: x-large;
+}
